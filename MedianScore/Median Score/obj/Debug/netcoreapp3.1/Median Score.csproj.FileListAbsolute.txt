@@ -9,3 +9,14 @@
 /home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/bin/Debug/netcoreapp3.1/Median Score.pdb
 /home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/obj/Debug/netcoreapp3.1/Median Score.dll
 /home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/obj/Debug/netcoreapp3.1/Median Score.pdb
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.deps.json
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.runtimeconfig.json
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.runtimeconfig.dev.json
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.dll
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.pdb
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.csprojAssemblyReference.cache
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.AssemblyInfoInputs.cache
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.AssemblyInfo.cs
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.dll
+/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.pdb

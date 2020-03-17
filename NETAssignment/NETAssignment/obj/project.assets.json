@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/NETAssignment.csproj",
+      "projectUniqueName": "/home/mitak/GithubRepos/PrimeHolding/NETAssignment/NETAssignment/NETAssignment.csproj",
       "projectName": "NETAssignment",
-      "projectPath": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/NETAssignment.csproj",
+      "projectPath": "/home/mitak/GithubRepos/PrimeHolding/NETAssignment/NETAssignment/NETAssignment.csproj",
       "packagesPath": "/home/mitak/.nuget/packages/",
-      "outputPath": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/obj/",
+      "outputPath": "/home/mitak/GithubRepos/PrimeHolding/NETAssignment/NETAssignment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mitak/.config/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/Median Score.csproj": {}
+    "/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/Median Score.csproj": {}
   },
   "projects": {
-    "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/Median Score.csproj": {
+    "/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/Median Score.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/Median Score.csproj",
+        "projectUniqueName": "/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/Median Score.csproj",
         "projectName": "Median Score",
-        "projectPath": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/Median Score.csproj",
+        "projectPath": "/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/Median Score.csproj",
         "packagesPath": "/home/mitak/.nuget/packages/",
-        "outputPath": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/Median Score/obj/",
+        "outputPath": "/home/mitak/GithubRepos/PrimeHolding/MedianScore/Median Score/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mitak/.config/NuGet/NuGet.Config"

@@ -15,30 +15,37 @@ The First line of the method always adds the first element to the result, if inp
 
 var result = new List<int> {scores.FirstOrDefault(x => true)};
 
-Then I have for loop which starts from i = 2 and creates subScores which takes i elements from the scores and sorts them;
-for (int i = 2; i <= scores.Count; i++)
-{
-    //Creates a list from input which takes i elements and sorts them
-    var partScores = scores.Take(i).OrderBy(x => x).ToList();
-    //Finally I check the sorted subScores Count it's even I take the two middle integers and calculate the median, if its odd i take the middle integer from the sorted subScores
-    int median;
-    //If count is even, return middle elements summed and divided by 2 rounded to nearest integer
-    if (partScores.Count % 2 == 0)
+//Then I create a subScore list with the first value of scores, which will be used for the calculations;
+
+var subScores = new List<int> {result.First()};
+
+Then I have for loop which starts from i = 1 and adds next element to subScores and then sorts it;
+for (int i = 1; i < scores.Count; i++)
     {
-        //Get the middle left and right integer indexes
-        var left = (partScores.Count / 2) - 1;
-        var right = (partScores.Count / 2);
-        //Calculates the median and rounds it to the nearest integer;
-        median = (int) Math.Round((decimal) (partScores[left] + partScores[right]) / 2);
+        //Add next element and sort the list
+        subScores.Add(scores[i]);
+        subScores = subScores.OrderBy(x => x).ToList();
+        int median;
+        //If count is even, return middle elements summed and divided by 2 rounded to nearest integer
+        if (subScores.Count % 2 == 0)
+        {
+            //Get the middle left and right integer indexes
+            var left = (subScores.Count / 2) - 1;
+            var right = (subScores.Count / 2);
+            //Calculates the median
+            median = (int) Math.Round((decimal) (subScores[left] + subScores[right]) / 2);
+        }
+        //If count is odd get the middle element of the sorted list
+        else
+        {
+            //Gets the middle integer
+            var middle = subScores.Count / 2;
+            median = subScores[middle];
+        }
+
+        //Add the median to the result list
+        result.Add(median);
     }
-    //If count is odd get the middle element of the sorted subScores
-    else
-    {
-        //Gets the middle integer
-        var middle = partScores.Count / 2;
-        median = partScores[middle];
-    }
-    //Add the median to the result list
-    result.Add(median);
-}
-And Finnally I print my returned result List;
+
+    return result;
+And Finally I print my returned result List;

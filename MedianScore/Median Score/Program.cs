@@ -26,11 +26,12 @@ namespace Median_Score
         {
             //Add the first element to the result, if it's empty return 0
             var result = new List<int> {scores.FirstOrDefault(x => true)};
-
-            for (int i = 2; i <= scores.Count; i++)
+            var subScores = new List<int> {result.First()};
+            for (int i = 1; i < scores.Count; i++)
             {
-                //Creates a list from input which takes i elements and sorts them
-                var subScores = scores.Take(i).OrderBy(x => x).ToList();
+                //Add next element and sort the list
+                subScores.Add(scores[i]);
+                subScores = subScores.OrderBy(x => x).ToList();
                 int median;
                 //If count is even, return middle elements summed and divided by 2 rounded to nearest integer
                 if (subScores.Count % 2 == 0)

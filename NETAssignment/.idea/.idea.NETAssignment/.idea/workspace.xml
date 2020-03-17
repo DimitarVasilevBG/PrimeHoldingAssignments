@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05506a9-3bca-4cda-8ba7-ca4fec501cec" name="Default Changelist" comment="" />
+    <list default="true" id="f05506a9-3bca-4cda-8ba7-ca4fec501cec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/bin/Debug/netcoreapp3.1/Median Score.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Debug/netcoreapp3.1/Median Score.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Median Score.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Median Score.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Median Score.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/Median Score.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MedianScore/Median Score/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MedianScore/Median Score/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NETAssignment/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NETAssignment/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NETAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NETAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NETAssignment/obj/NETAssignment.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NETAssignment/obj/NETAssignment.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NETAssignment/obj/NETAssignment.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NETAssignment/obj/NETAssignment.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NETAssignment/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/NETAssignment/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NETAssignment/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NETAssignment/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NETAssignment/PayDesk.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/92B5E598-6D6C-4D94-8B37-43C9DCEF6A74/1B/Decimal.DecCalc.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NETAssignment/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/92B5E598-6D6C-4D94-8B37-43C9DCEF6A74/1A/Decimal.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NETAssignment/Cards/BronzeCard.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NETAssignment/Owner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NETAssignment/Cards/Card.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NETAssignment/PayDesk.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NETAssignment/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NETAssignment/Cards/GoldCard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NETAssignment/Cards/SilverCard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NETAssignment/Owner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NETAssignment/Cards/GoldCard.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,6 +57,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZGB4GL8sc8DqL6n7U3Nru8fa5T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +67,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -78,6 +104,7 @@
       <workItem from="1584455362081" duration="5117000" />
       <workItem from="1584460955159" duration="1069000" />
       <workItem from="1584462658590" duration="326000" />
+      <workItem from="1584463552181" duration="17000" />
     </task>
     <servers />
   </component>
@@ -91,22 +118,22 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state width="485" height="486" key="DebuggerActiveHint/0.0.1920.1053@0.0.1920.1053" timestamp="1584457763436" />
-    <state width="1876" height="280" key="GridCell.Tab.0.bottom" timestamp="1584462984053">
+    <state width="1876" height="280" key="GridCell.Tab.0.bottom" timestamp="1584463568841">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1876" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584462984053" />
-    <state width="1876" height="280" key="GridCell.Tab.0.center" timestamp="1584462984051">
+    <state width="1876" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584463568841" />
+    <state width="1876" height="280" key="GridCell.Tab.0.center" timestamp="1584463568840">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1876" height="280" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584462984051" />
-    <state width="1876" height="280" key="GridCell.Tab.0.left" timestamp="1584462984050">
+    <state width="1876" height="280" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584463568840" />
+    <state width="1876" height="280" key="GridCell.Tab.0.left" timestamp="1584463568840">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1876" height="280" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584462984050" />
-    <state width="1876" height="280" key="GridCell.Tab.0.right" timestamp="1584462984052">
+    <state width="1876" height="280" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584463568840" />
+    <state width="1876" height="280" key="GridCell.Tab.0.right" timestamp="1584463568840">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1876" height="280" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584462984052" />
+    <state width="1876" height="280" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584463568840" />
     <state width="1876" height="346" key="GridCell.Tab.1.bottom" timestamp="1584460404658">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/NETAssignment.csproj",
+    "projectUniqueName": "/home/mitak/GithubRepos/PrimeHolding/NETAssignment/NETAssignment/NETAssignment.csproj",
     "projectName": "NETAssignment",
-    "projectPath": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/NETAssignment.csproj",
-    "outputPath": "/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/obj/",
+    "projectPath": "/home/mitak/GithubRepos/PrimeHolding/NETAssignment/NETAssignment/NETAssignment.csproj",
+    "outputPath": "/home/mitak/GithubRepos/PrimeHolding/NETAssignment/NETAssignment/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
