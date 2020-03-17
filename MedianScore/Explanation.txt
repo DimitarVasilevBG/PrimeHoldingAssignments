@@ -1,0 +1,44 @@
+Firstly I Initialize List of ints with the input named scores;
+var scores = new List<int>() {100, 20, 50, 70, 45};
+Then, I Invoke GetMedianScoreList with scores as parameter, which returns my calculated result;
+    try
+    {
+        var result = GetMedianScoreList(scores);
+        Console.WriteLine('[' + String.Join(",", result) + ']');
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine(e.Message);
+    }
+The code is in try catch for any errors, after the result is returned, I print it in the Console in [a,b,c,d] format;
+The First line of the method always adds the first element to the result, if input is empty it returns 0;
+
+var result = new List<int> {scores.FirstOrDefault(x => true)};
+
+Then I have for loop which starts from i = 2 and creates subScores which takes i elements from the scores and sorts them;
+for (int i = 2; i <= scores.Count; i++)
+{
+    //Creates a list from input which takes i elements and sorts them
+    var partScores = scores.Take(i).OrderBy(x => x).ToList();
+    //Finally I check the sorted subScores Count it's even I take the two middle integers and calculate the median, if its odd i take the middle integer from the sorted subScores
+    int median;
+    //If count is even, return middle elements summed and divided by 2 rounded to nearest integer
+    if (partScores.Count % 2 == 0)
+    {
+        //Get the middle left and right integer indexes
+        var left = (partScores.Count / 2) - 1;
+        var right = (partScores.Count / 2);
+        //Calculates the median and rounds it to the nearest integer;
+        median = (int) Math.Round((decimal) (partScores[left] + partScores[right]) / 2);
+    }
+    //If count is odd get the middle element of the sorted subScores
+    else
+    {
+        //Gets the middle integer
+        var middle = partScores.Count / 2;
+        median = partScores[middle];
+    }
+    //Add the median to the result list
+    result.Add(median);
+}
+And Finnally I print my returned result List;

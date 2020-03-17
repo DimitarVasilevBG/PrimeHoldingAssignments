@@ -1,0 +1,11 @@
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/bin/Debug/netcoreapp3.1/NETAssignment
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/bin/Debug/netcoreapp3.1/NETAssignment.deps.json
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/bin/Debug/netcoreapp3.1/NETAssignment.runtimeconfig.json
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/bin/Debug/netcoreapp3.1/NETAssignment.runtimeconfig.dev.json
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/bin/Debug/netcoreapp3.1/NETAssignment.dll
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/bin/Debug/netcoreapp3.1/NETAssignment.pdb
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.csprojAssemblyReference.cache
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.AssemblyInfoInputs.cache
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.AssemblyInfo.cs
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.dll
+/home/mitak/MyProjects/C#/PrimeHoldingExamCA/NETAssignment/NETAssignment/NETAssignment/obj/Debug/netcoreapp3.1/NETAssignment.pdb

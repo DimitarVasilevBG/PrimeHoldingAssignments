@@ -1,0 +1,15 @@
+How to start my project:
+Open my project with VisualStudio then press CTRL + F5
+all my example object are located in the program.cs
+
+
+
+I have abstract class Card, it has constructor which accepts Owner object and turnOver;
+It implements CalculateDiscount and get Total methods;
+BronzeCard,SilverCard,GoldCard implement my abstract class Card;
+For each card, the discount logic is in the constructor, also all cards have 10% cap logic which is located in the Card class;
+
+PayDesk is static class with static method Checkout(Card card, decimal valueOfPurchase) which calculates and prints the result;
+
+
+
